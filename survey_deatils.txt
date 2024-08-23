@@ -1,0 +1,27 @@
+Section 1: Demographics
+In this section, we collected participants' demographic details, including age, gender, and educational background. 
+We then asked about their experience on MTurk, including their number of completed HITs, hours worked a week, and HIT approval rates.
+This section concluded with questions about the specific tools they employ for managing and completing HITs.
+
+Section 2: Understanding HIT Completion
+In this section, we asked participants how often they use a workstation, smartphone, tablet, smart speaker, or smartwatch to complete HITs. 
+We also investigate the impact of the location on HIT completion~\cite{hettiachchi2020context} by having participants indicate how often they use the non-workstation devices to complete HITs when they are at their workstation, at home, or away from home.
+Next, we asked participants open-ended response questions to state the types of HITs they currently complete using non-workstation devices.
+This was followed by having them rate (on a scale of 1--5; where 1 represents least usable and 5 represents most usable) the usability of completing traditional AI-training-based HITs identified by prior work~\cite{hettiachchi2020context}: sentiment analysis, information finding, audio tagging, speech transcription, image classification, bounding box on all the studied device types.
+Furthermore, we asked open-ended response questions about what HIT types they wished were better supported for all non-workstation devices including smartphones, tablets, smart speakers, and smartwatches. 
+We concluded this section by asking crowdworkers another open-ended response question about their motivation to choose which device they will use to complete a HIT.
+
+Section 3: Understanding HIT Management
+In Section 3, we asked participants to indicate how frequently they used all the mentioned devices for HIT management.
+They also rated (on a scale of 1--5; where 1 represents least usable and 5 represents most usable) the usability of completing HIT management tasks (identified in prior work~\cite{williams2019perpetual,newlands2021crowdwork}) on these devices: finding HITs, auto-accepting HITs, creating catchers/watchers, listening to catchers/watchers, talking to other MTurk workers, talking to requesters.
+We also asked them to indicate which of these HITs they would like to see better supported on non-workstation devices.
+    
+Section 4: Broken Desktop
+In this section, we inquired about the inconvenience participants would experience if their primary workstation was rendered non-functional.
+We then asked participants open-ended response questions about which alternative device they would use in this situation and why.
+Next, participants shared how their workstation and alternative device compared in terms of acceptability and effectiveness.
+We also asked how easy it was to transfer from the workstation to the alternative device.
+    
+Section 5: The Magic Wand
+In this section, we posed a hypothetical scenario to participants.
+For each device type (e.g. workstation, smartphone, tablet, smart speaker, and smartwatch), we asked participants open-ended response questions about how they would imagine or optimize any facet of crowdwork related to completing and managing HITs if equipped with a magical wand to do so.
